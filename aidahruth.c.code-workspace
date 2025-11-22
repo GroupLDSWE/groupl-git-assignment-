@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main()
+{
+printf("AIDAH NABAGESERA RUTH");
+return 0;
+}
